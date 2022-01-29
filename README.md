@@ -6,6 +6,13 @@ The `students_complete.csv` file shows evidence of **academic dishonesty**; spec
 #
 
 #### How is the district summary affected?
+Let's take a look at the data before and after making the changes:
+
+##### Before:
+<img src="/Resources/district_summary_before.png" alt="district_summary_before"><br>
+##### After:
+<img src="/Resources/district_summary_after.png" alt="district_summary_after"><br>
+
 
 
 #### How is the school summary affected?
