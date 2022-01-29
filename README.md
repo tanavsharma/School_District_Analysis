@@ -15,22 +15,23 @@ Let's take a look at the data before and after making the changes:
 
 As we can see, after making the required changes in the data, the affected columns were:
 
-- Average Math Score
-  <p align="left">
-  <img src="/formulas/average_math_formula.png" alt="average_math_formula" width="250">
-  </p>
+- Average Math Score:<br>
+  <img src="/formulas/average_math_formula.png" alt="average_math_formula" width="250" align="centre">
+  Typing explanation about code.<br>
   
+---
 - % Passing Math
   <p align="left">
   <img src="/formulas/passing_math_formula.png" alt="passing_math_formula" width="250">
   </p>
-  
+
+---
 - % Passing Reading
   <p align="left">
   <img src="/formulas/passing_reading_formula.png" alt="passing_reading_formula.png" width="250">
   </p>
   
-  
+---  
 - % Overall Passing
   <p align="left">
   <img src="/formulas/overall_passing_formula.png" alt="overall_passing_formula.png" width="250">
@@ -38,13 +39,7 @@ As we can see, after making the required changes in the data, the affected colum
 
 The affected columns decreased by 0.12%. Here is a breakdown of that calculation:
 
-
-```
-
-```
-
-
-
+#
 #### How is the school summary affected?
 
 
