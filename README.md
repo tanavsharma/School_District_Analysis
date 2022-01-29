@@ -23,6 +23,9 @@ As we can see, after making the required changes in the data, the affected colum
 - % Passing Reading:     Decreased by 0.11%
 - % Overall Passing:     Decreased by 0.46%
 ```
+*You can find a breakdown of these numbers at the end of this document.*
+
+
 ---
 #### How is the school summary affected?
 
@@ -45,6 +48,11 @@ As we can see, the sumarry of school **Thomas High School** was affected signifi
 - % Passing Reading       : Decreased by 28.40%
 - % Overall Passing       : Decreased by 28.44%
 ```
+
+*You can find a breakdown of these numbers at the end of this document.*
+
+---
+
 
 
 
