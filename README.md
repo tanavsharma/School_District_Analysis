@@ -53,11 +53,25 @@ As we can see, the sumarry of school **Thomas High School** was affected signifi
 
 ---
 
-
-
-
-
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Let's take a look at the summary of all schools, and compare them to Thomas High School. Here is the chart, with all the schools and their scores after the adjustment.
+
+<img src="/formulas/school_summary_allSchools.png" alt="average_math_formula">
+
+To make our life easier, lets calculate the mean for each column and compare those values to the value of Thomas High School, and detirmine how the schools performace was affected and by how much. 
+
+Here is a chart of the means for all schools for each column:
+<img src="/pictures/allschools_average_scores.png" alt="allschools_average_scores">
+
+Just Thomas High School:
+<img src="/pictures/headers.png" alt="allschools_average_scores">
+<img src="/pictures/ThomasHighSchool_compare.png" alt="allschools_average_scores">
+
+
+
+
+
 #### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
