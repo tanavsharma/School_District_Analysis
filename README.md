@@ -9,7 +9,7 @@ The `students_complete.csv` file shows evidence of **academic dishonesty**; spec
 Let's take a look at the data before and after making the changes:
 
 ##### Before:
-<img src="/Resources/district_summary_before.png" alt="district_summary_before"><br>
+<img src="/Resources/district_summarydf_before.png" alt="district_summary_before"><br>
 ##### After:
 <img src="/Resources/district_summary_after.png" alt="district_summary_after"><br>
 
