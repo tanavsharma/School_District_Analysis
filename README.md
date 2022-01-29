@@ -64,9 +64,13 @@ To make our life easier, lets calculate the mean for each column and compare tho
 Here is a chart of the means for all schools for each column:
 <img src="/pictures/allschools_average_scores.png" alt="allschools_average_scores">
 
-Just Thomas High School:
-<img src="/pictures/headers.png" alt="allschools_average_scores">
-<img src="/pictures/ThomasHighSchool_compare.png" alt="allschools_average_scores">
+Just Thomas High School (Before):
+<img src="/pictures/THS_Headers.png" alt="allschools_average_scores">
+<img src="/pictures/THS_Scores_Before.png" alt="allschools_average_scores">
+
+Just Thomas High School (After):
+<img src="/pictures/THS_Headers.png" alt="allschools_average_scores">
+<img src="/pictures/THS_Scores_After.png" alt="allschools_average_scores">
 
 
 
