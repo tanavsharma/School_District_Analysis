@@ -9,9 +9,9 @@ The `students_complete.csv` file shows evidence of **academic dishonesty**; spec
 Let's take a look at the data **before** and **after** making the changes:
 
 ##### Before:
-<img src="/Resources/DistrictSummary_Before.png" alt="district_summary_before"><br>
+<img src="/pictures/DistrictSummary_Before.png" alt="district_summary_before"><br>
 ##### After:
-<img src="/Resources/DistrictSummary_After.png" alt="district_summary_after"><br>
+<img src="/pictures/DistrictSummary_After.png" alt="district_summary_after"><br>
 
 As we can see, after making the required changes in the data, the affected columns were:
 ```
