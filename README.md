@@ -36,7 +36,15 @@ Let's take a look at the data **before** and **after** making the changes:
 <img src="/pictures/headings.png" alt="headings"><br>
 <img src="/pictures/school_summaryTHS_after.png" alt="school_summary_after"><br>
 
-As we can see, the sumarry of school **Thomas High School** was affected significantly. This is due to the fact that, none of the records for grade 9 were considered. As mentioned before, the scores for grade 9 seemed altered, so they couldn't be included and had to be removed from the data set.
+As we can see, the sumarry of school **Thomas High School** was affected significantly. This is due to the fact that, none of the records for grade 9 were considered. As mentioned before, the scores for grade 9 seemed altered, so they couldn't be included and had to be removed from the data set. The affected columns and their percent change are listed below.
+
+```
+- Average Math Score      : Decreased by 0.07%
+- Average Reading Score   : Increased by 0.05%
+- % Passing Math          : Decreased by 28.26%
+- % Passing Reading       : Decreased by 28.40%
+- % Overall Passing       : Decreased by 28.44%
+```
 
 
 
@@ -51,6 +59,8 @@ As we can see, the sumarry of school **Thomas High School** was affected signifi
 
 
 ### Screenshots & Other Breakdowns
+
+#### District Summary Calculations
 - Average Math Score:<br>
   <img src="/formulas/average_math_formula.png" alt="average_math_formula" width="250">
   
@@ -66,10 +76,23 @@ As we can see, the sumarry of school **Thomas High School** was affected signifi
 - % Overall Passing:<br>
   <img src="/formulas/overall_passing_formula.png" alt="overall_passing_formula.png" width="250">
 
-
-The affected columns decreased by 0.12%. Here is a breakdown of that calculation:
-
 #
+
+#### School Summary Calculations
+- Average Math Score:<br>
+  <img src="/formulas/average_math_formula.png" alt="average_math_formula" width="250">
+  
+---
+- % Passing Math:<br>
+  <img src="/formulas/passing_math_formula.png" alt="passing_math_formula" width="250">
+
+---
+- % Passing Reading:<br>
+  <img src="/formulas/passing_reading_formula.png" alt="passing_reading_formula.png" width="250">
+
+---  
+- % Overall Passing:<br>
+  <img src="/formulas/overall_passing_formula.png" alt="overall_passing_formula.png" width="250">
 
 
 ### Results
