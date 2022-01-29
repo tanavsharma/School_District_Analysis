@@ -61,21 +61,8 @@ As we can see, the sumarry of school **Thomas High School** was affected signifi
 ### Screenshots & Other Breakdowns
 
 #### District Summary Calculations
-- Average Math Score:<br>
-  <img src="/formulas/average_math_formula.png" alt="average_math_formula" width="250">
+  <img src="/formulas/districtFormulas.png" alt="average_math_formula" width="700">
   
----
-- % Passing Math:<br>
-  <img src="/formulas/passing_math_formula.png" alt="passing_math_formula" width="250">
-
----
-- % Passing Reading:<br>
-  <img src="/formulas/passing_reading_formula.png" alt="passing_reading_formula.png" width="250">
-
----  
-- % Overall Passing:<br>
-  <img src="/formulas/overall_passing_formula.png" alt="overall_passing_formula.png" width="250">
-
 #
 
 #### School Summary Calculations
