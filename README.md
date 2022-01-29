@@ -13,6 +13,20 @@ Let's take a look at the data before and after making the changes:
 ##### After:
 <img src="/Resources/DistrictSummary_After.png" alt="district_summary_after"><br>
 
+As we can see, after making the required changes in the data, the affected columns were:
+
+- Average Math Score
+- % Passing Math
+- % Passing Reading
+- % Overall Passing
+
+The affected columns decreased by 0.12%. Here is a breakdown of that calculation:
+
+
+```
+
+```
+
 
 
 #### How is the school summary affected?
