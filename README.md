@@ -2,7 +2,7 @@
 
 
 ### Overview of the School District Analysis
-The `students_complete.csv` file shows evidence of **academic dishonesty**; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards We have to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we've replaced the math and reading scores, we will repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
+The `students_complete.csv` file shows evidence of **academic dishonesty**; specifically, reading and math grades for **Thomas High School** ninth graders appear to have been altered. The school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards We have to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we've replaced the math and reading scores, we will repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
 #
 
 #### How is the district summary affected?
@@ -20,8 +20,8 @@ As we can see, after making the required changes in the data, the affected colum
 - % Passing Reading:  Decreased by 0.11%
 - % Overall Passing:  Decreased by 0.46%
 ```
-
-
+#
+### Screenshots & Other Breakdowns
 - Average Math Score:<br>
   <img src="/formulas/average_math_formula.png" alt="average_math_formula" width="250">
   
