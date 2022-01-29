@@ -6,7 +6,7 @@ The `students_complete.csv` file shows evidence of **academic dishonesty**; spec
 #
 
 #### How is the district summary affected?
-Let's take a look at the data before and after making the changes:
+Let's take a look at the data **before** and **after** making the changes:
 
 ##### Before:
 <img src="/Resources/DistrictSummary_Before.png" alt="district_summary_before"><br>
@@ -14,6 +14,13 @@ Let's take a look at the data before and after making the changes:
 <img src="/Resources/DistrictSummary_After.png" alt="district_summary_after"><br>
 
 As we can see, after making the required changes in the data, the affected columns were:
+```
+- Average Math Score: Decreased by 0.12%
+- % Passing Math:     Decreased by 0.27%
+- % Passing Reading:  Decreased by 0.11%
+- % Overall Passing:  Decreased by 0.46%
+```
+
 
 - Average Math Score:<br>
   <img src="/formulas/average_math_formula.png" alt="average_math_formula" width="250">
