@@ -74,18 +74,18 @@ Just Thomas High School (After):
 
 Based on the images above, it is evident that with the altered data from grade niners, it put **Thomas High School** in top 5 highest performing schools. However, once removing the altered data, we can see that Thomas High School scores suffered significantly, to a point bringing the school in bottom lowest.
 
-We can also see that they dropped below the average for each category (math and reading). Here is percent change in all of them:
-
-```
-
-```
-
-
+We can also see that their percentages dropped below the average for each category (math and reading).
 #
+
 #### How does replacing the ninth-grade scores affect the following:
+
 - Math and reading scores by grade
+  
+  
 - Scores by school spending
+  
 - Scores by school size
+  
 - Scores by school type
 
 
