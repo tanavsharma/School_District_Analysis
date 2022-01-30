@@ -115,7 +115,7 @@ Even after removing the 9th grade scores from Thomas High School, the school was
 
 Based on our analysis above, we can state that although there was not a significant change in the schools performance, replacing the scores with **NaNs** was necessary. The *Average Math Score* and *Average Reading Scores* were not affected at all, however the percentage of students passing math and reading decreased a little bit. 
 
-# Screenshots & Other Breakdowns
+## Screenshots & Other Breakdowns
 
 #### District Summary Calculations
   <img src="/formulas/districtFormulas.png" alt="average_math_formula" width="700">
