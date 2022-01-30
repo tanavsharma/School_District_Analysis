@@ -73,21 +73,13 @@ Just Thomas High School (After Replacing):
 <img src="/pictures/THS_Summary_After.png" alt="allschools_average_scores">
 
 Even after removing the 9th grade scores from Thomas High School, the school was still in the top 2 highest performing schools in the district.
-Lets calculate how much of a change occured after replacing the scores:
-```
-- Average Math Score:    Decreased by 0.12%
-- Average Reading Score: Stayed The Same
-- % Passing Math:        Decreased by 0.27%
-- % Passing Reading:     Decreased by 0.11%
-- % Overall Passing:     Decreased by 0.46%
-```
 #
 
 #### How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade  
 
-  <img src="/pictures/ScoresByGrade.png" alt="math_scores_by_grade"><br>
+  <img src="/pictures/Score_byGrade.png" alt="math_scores_by_grade"><br>
  
   
   
