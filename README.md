@@ -80,11 +80,19 @@ Even after removing the 9th grade scores from Thomas High School, the school was
 - Math and reading scores by grade  
 
   <img src="/pictures/Score_byGrade.png" alt="math_scores_by_grade"><br>
- 
-  
+ It affects the overall scores of the school as there is no data supporting the 9th grades math and reading. 
+ ---
   
 - Scores by school spending
+#### Before:<br>
+  <img src="/pictures/spending_summary_df_before.png" alt="spending_summary_before.png"><br>
   
+#### After:<br>
+  <img src="/pictures/spending_summary_after_df.png" alt="spending_summary_after.png"><br>
+  
+  As we can see that there isn't signficant change in the data after replacing the values. 
+  
+---
 - Scores by school size
   
 - Scores by school type
