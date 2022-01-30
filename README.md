@@ -42,11 +42,11 @@ Let's take a look at the data **before** and **after** making the changes:
 As we can see, the sumarry of school **Thomas High School** was not affected significantly. This is due to the fact that, none of the records for grade 9 were considered, but for grade 10, 11 and 12 were considered. Onlu the grade 9 math and reading scores were removed from the data set. The affected columns and their percent change are listed below.
 
 ```
-- Average Math Score      : Decreased by 
-- Average Reading Score   : Increased by 
-- % Passing Math          : Decreased by 
-- % Passing Reading       : Decreased by 
-- % Overall Passing       : Decreased by 
+- Average Math Score      : Decreased by 0.07%
+- Average Reading Score   : Increased by 0.05%
+- % Passing Math          : Decreased by 0.09%
+- % Passing Reading       : Decreased by 0.29%
+- % Overall Passing       : Decreased by 0.34%
 ```
 
 *You can find a breakdown of these numbers at the end of this document.*
@@ -57,7 +57,7 @@ As we can see, the sumarry of school **Thomas High School** was not affected sig
 
 Let's take a look at the summary of all schools, and compare them to Thomas High School. Here is the chart, with all the schools and their scores after the adjustment.
 
-<img src="/formulas/school_summary_allSchools.png" alt="average_math_formula">
+<img src="/formulas/" alt="average_math_formula">
 
 To make our life easier, lets calculate the mean for each column and compare those values to the value of Thomas High School, and detirmine how the schools performace was affected and by how much. 
 
@@ -101,7 +101,7 @@ We can also see that their percentages dropped below the average for each catego
 #
 
 #### School Summary Calculations
-<img src="/formulas/schoolFormulas.png" alt="average_math_formula" width="700">
+<img src="/formulas/schoolSummaryBreakdown.png" alt="average_math_formula" width="700">
 
 #
 
