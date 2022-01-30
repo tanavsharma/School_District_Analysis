@@ -94,8 +94,19 @@ Even after removing the 9th grade scores from Thomas High School, the school was
   
 ---
 - Scores by school size
+#### Before:<br>
+  <img src="/pictures/school_size_df_before.png" alt="spending_summary_before.png"><br>
   
+#### After:<br>
+  <img src="/pictures/school_size_df_after.png" alt="spending_summary_after.png"><br>
+
+---
 - Scores by school type
+#### Before:<br>
+  <img src="/pictures/type_summary_before.png" alt="spending_summary_before.png"><br>
+  
+#### After:<br>
+  <img src="/pictures/type_summary_after.png" alt="spending_summary_after.png"><br>
 
 
 
