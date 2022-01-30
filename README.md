@@ -109,8 +109,8 @@ Even after removing the 9th grade scores from Thomas High School, the school was
   <img src="/pictures/type_summary_after.png" alt="spending_summary_after.png"><br>
 
 
-
-### Screenshots & Other Breakdowns
+#
+# Screenshots & Other Breakdowns
 
 #### District Summary Calculations
   <img src="/formulas/districtFormulas.png" alt="average_math_formula" width="700">
