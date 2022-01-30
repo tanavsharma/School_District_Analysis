@@ -1,11 +1,10 @@
 # School_District_Analysis
 
 
-### Overview of the School District Analysis
+## Overview of the School District Analysis
 The `students_complete.csv` file shows evidence of **academic dishonesty**; specifically, reading and math grades for **Thomas High School** ninth graders appear to have been altered. The school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards We have to **replace** the **math** and **reading** scores for Thomas High School with **NaNs** while keeping the rest of the data intact. Once we've replaced the math and reading scores, we will repeat the **school district analysis** and write up a report to describe how these changes affected the overall analysis.
 
-#
-
+## Results
 #### How is the district summary affected?
 Let's take a look at the data **before** and **after** making the changes:
 
@@ -99,6 +98,8 @@ Even after removing the 9th grade scores from Thomas High School, the school was
   
 #### After:<br>
   <img src="/pictures/school_size_df_after.png" alt="spending_summary_after.png"><br>
+  
+  As we can see, small and medium sized schools were affected slightly in math, and all school sizes were affected slightly for reading. 
 
 ---
 - Scores by school type
@@ -107,9 +108,13 @@ Even after removing the 9th grade scores from Thomas High School, the school was
   
 #### After:<br>
   <img src="/pictures/type_summary_after.png" alt="spending_summary_after.png"><br>
+  
+  As we can see, the math and reading percentages were affected for both districts, slightly. 
 
+## Summary
 
-#
+Based on our analysis above, we can state that although there was not a significant change in the schools performance, replacing the scores with **NaNs** was necessary. The *Average Math Score* and *Average Reading Scores* were not affected at all, however the percentage of students passing math and reading decreased a little bit. 
+
 # Screenshots & Other Breakdowns
 
 #### District Summary Calculations
@@ -121,7 +126,3 @@ Even after removing the 9th grade scores from Thomas High School, the school was
 <img src="/formulas/schoolSummaryBreakdown.png" alt="average_math_formula" width="700">
 
 #
-
-
-
-### Results
