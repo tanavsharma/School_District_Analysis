@@ -57,24 +57,30 @@ As we can see, the sumarry of school **Thomas High School** was not affected sig
 
 Let's take a look at the summary of all schools, and compare them to Thomas High School. Here is the chart, with all the schools and their scores after the adjustment.
 
-<img src="/formulas/" alt="average_math_formula">
+<img src="/pictures/per_school_summary.png" alt="per_school_summary">
 
 To make our life easier, lets calculate the mean for each column and compare those values to the value of Thomas High School, and detirmine how the schools performace was affected and by how much. 
 
 Here is a chart of the means for all schools for each column:
 <img src="/pictures/allschools_average_scores.png" alt="allschools_average_scores">
 
-Just Thomas High School (Before):
+Just Thomas High School (Before Replacing):
 <img src="/pictures/THS_Headers.png" alt="allschools_average_scores">
 <img src="/pictures/THS_Scores_Before.png" alt="allschools_average_scores">
 
-Just Thomas High School (After):
+Just Thomas High School (After Replacing):
 <img src="/pictures/THS_Headers.png" alt="allschools_average_scores">
-<img src="/pictures/THS_Scores_After.png" alt="allschools_average_scores">
+<img src="/pictures/THS_Summary_After.png" alt="allschools_average_scores">
 
-Based on the images above, it is evident that with the altered data from grade niners, it put **Thomas High School** in top 5 highest performing schools. However, once removing the altered data, we can see that Thomas High School scores suffered significantly, to a point bringing the school in bottom lowest.
-
-We can also see that their percentages dropped below the average for each category (math and reading).
+Even after removing the 9th grade scores from Thomas High School, the school was still in the top 2 highest performing schools in the district.
+Lets calculate how much of a change occured after replacing the scores:
+```
+- Average Math Score:    Decreased by 0.12%
+- Average Reading Score: Stayed The Same
+- % Passing Math:        Decreased by 0.27%
+- % Passing Reading:     Decreased by 0.11%
+- % Overall Passing:     Decreased by 0.46%
+```
 #
 
 #### How does replacing the ninth-grade scores affect the following:
