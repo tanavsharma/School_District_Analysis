@@ -80,12 +80,9 @@ We can also see that their percentages dropped below the average for each catego
 #### How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade  
-  
-  Math Scores By Grade:<br>
-  <img src="/pictures/math_scores_by_grade.png" alt="math_scores_by_grade" width="400"><br>
+
+  <img src="/pictures/ScoresByGrade.png" alt="math_scores_by_grade"><br>
  
-  Reading Scores By Grade:<br>
-  <img src="/pictures/reading_scores_by_grade.png" alt="reading_scores_by_grade" width="400"><br>
   
   
 - Scores by school spending
